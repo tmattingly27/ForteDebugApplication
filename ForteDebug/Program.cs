@@ -1,5 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+/*
+
+Added some comments to the top of this file...
+
+*/
+
+
 using ForteDebug;
 using System.IO.Compression;
 
